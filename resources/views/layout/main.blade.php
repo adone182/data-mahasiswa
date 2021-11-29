@@ -28,6 +28,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="/mahasiswa">Mahasiswa</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/students">Students</a>
+              </li>
             </ul>
           </div>
         </div>

@@ -7,5 +7,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Student extends Model
 {
-    use HasFactory;
+    // kalo pake insert data lewat create harus tulisin ini
+    protected $fillable = ['nama', 'nim', 'email', 'jurusan'];
 }
